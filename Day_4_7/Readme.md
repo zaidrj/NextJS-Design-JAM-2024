@@ -1,0 +1,1 @@
+I have tried my best to make a ecommerce site from scratch but unfortunately within given time I am unable to make it fully functional. hence I am adding update in form of video where i have been through this journey. Soon inshaAllah I will complete it and add it to my repo. sorry once again for the delay
